@@ -3,7 +3,7 @@ const CONFIG = {
 
     background: "background.jpg",
 
-    min1: "min1.jfif",
+    min1: "351489293_2117601448434345_3024538865870230929_n.jpg",
     min2: "min2.jpg",
     min3: "max3.jpg",
     min4: "max4.webp",
